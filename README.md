@@ -38,6 +38,26 @@ Our findings suggest that variable selective pressures on complex traits likely 
 
 ---
 
+## 📂 Data & Scripts
+
+- adu_dnc.csv # Distance to niche centroid (adults)
+- adu_NVH.csv # Allometric and scale traits dataset (adults)
+- adu_pc.csv # PCA scores for adult specimens (PC1, PC2, PC3…)
+- adu_pc2.csv # Secondary PCA projection for adults (subset or validation)
+- adu_traits_mean_pca_spp.csv # Species-level mean PCA scores (adults)
+- juv_dnc.csv # Distance to niche centroid (juveniles)
+- juv_NVH.csv # Allometric and scale traits dataset (juveniles)
+- juv_pc.csv # PCA scores for juvenile specimens
+- juv_pc2.csv # Secondary PCA projection for juveniles
+- juv_traits_mean_pca_spp.csv # Species-level mean PCA scores (juveniles)
+- stat_test.csv # Results of statistical tests (correlations, significance)
+
+- 1_sma_analysis.r # Standardized Major Axis (SMA) analysis for trait integration
+- 2_rates_MCMC.r # Estimation of evolutionary rates (σ²) with MCMC
+- 3_evol_ps_models.r # Evolutionary models fitting (BM, OU, EB) + phylogenetic signal
+
+---
+
 ## 📌 Citation
 If you use this repository, please cite:  
 
