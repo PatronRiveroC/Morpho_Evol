@@ -2,7 +2,7 @@
 
 **Authors:**  
 Carlos Patron-Rivero*, Carlos Yañez-Arenas*, Xavier Chiappa-Carrara, Octavio Rojas-Soto & Sara Ruane  
-\*Equal contribution
+\**Corresponding authors
 
 ---
 
