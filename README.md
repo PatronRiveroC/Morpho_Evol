@@ -65,4 +65,4 @@ If you use this repository, please cite:
 
 
 *Morphological evolution of size, scales and shape in Porthidium neotropical hognose pitvipers.*  
-Proceedings of the Royal Society B: Biological Sciences. (In review)
+Current Zoology. (In review)
