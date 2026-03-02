@@ -4,6 +4,8 @@
 Carlos Patron-Rivero*, Carlos Yañez-Arenas*, Xavier Chiappa-Carrara, Octavio Rojas-Soto & Sara Ruane  
 \*Corresponding authors
 
+![PCA plot](Data/fig1.png)
+
 ---
 
 ## 📖 Abstract
@@ -27,15 +29,16 @@ The evolutionary mechanisms driving morphological diversification remain poorly 
 
 ## 🛠️ Methods Overview
 - Morphological dataset of 484 specimens (*Porthidium*).  
-- Standardized Major Axis (SMA) correlations to test integration.  
-- Evolutionary rates (σ²) estimated via Monte Carlo Markov Chains.  
-- Model fitting: Brownian Motion (BM), Ornstein-Uhlenbeck (OU), Early Burst (EB).  
-- Phylogenetic signal tested across traits and ontogenetic stages.  
+- Graph Autoencoders.  
+- Louvain community.  
+- PCA. 
 
 ---
+
+
+
 
 ## 📌 Citation
 If you use this repository, please cite:  
 
-**Patron-Rivero C., Yañez-Arenas C., Chiappa-Carrara X., Rojas-Soto O., & Ruane S. (2026).** Integration and modular patterns shaping the morphological evolution in Neotropical hognose pitvipers *Porthidium*.  
-*Current Zoology*. (In Press)
+**Patron-Rivero C. & Yañez-Arenas C. (2026).** Graph autoencoders and community detection algorithms to improve polymorphic identification. (Submitted).
