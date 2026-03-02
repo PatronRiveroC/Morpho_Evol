@@ -25,18 +25,8 @@ The evolutionary mechanisms driving morphological diversification remain poorly 
 
 ---
 
-## 🛠️ Methods Overview
-- Morphological dataset of 484 specimens (*Porthidium*).  
-- Graph Autoencoders.  
-- Louvain community.  
-- PCA. 
-
----
-
-
-
-
 ## 📌 Citation
 If you use this repository, please cite:  
 
-**Patron-Rivero C. & Yañez-Arenas C. (2026).** Graph autoencoders and community detection algorithms to improve polymorphic identification. (Submitted).
+Patron-Rivero, C., Yañez-Arenas, C., Chiappa-Carrara, X., Rojas-Soto, O. & Ruane, S. (2026).** Integration and modular patterns shaping the morphological evolution in Neotropical hognose pitvipers *Porthidium*. *Current Zoology* (In Press).
+
