@@ -28,5 +28,5 @@ The evolutionary mechanisms driving morphological diversification remain poorly 
 ## 📌 Citation
 If you use this repository, please cite:  
 
-Patron-Rivero, C., Yañez-Arenas, C., Chiappa-Carrara, X., Rojas-Soto, O. & Ruane, S. (2026).** Integration and modular patterns shaping the morphological evolution in Neotropical hognose pitvipers *Porthidium*. *Current Zoology* (In Press).
+Patron-Rivero, C., Yañez-Arenas, C., Chiappa-Carrara, X., Rojas-Soto, O. & Ruane, S. (2026). Integration and modular patterns shaping the morphological evolution in Neotropical hognose pitvipers *Porthidium*. *Current Zoology* (In Press).
 
