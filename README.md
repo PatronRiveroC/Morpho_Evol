@@ -4,8 +4,6 @@
 Carlos Patron-Rivero*, Carlos Yañez-Arenas*, Xavier Chiappa-Carrara, Octavio Rojas-Soto & Sara Ruane  
 \*Corresponding authors
 
-![PCA plot](Data/fig1.png)
-
 ---
 
 ## 📖 Abstract
